@@ -1,5 +1,5 @@
 title: rhcsa_preparation
-#logo: /path/img/image.png
-#description: text below image
+logo: /repo/logo
+description: Road to redhat certification
 #show-downloads: true
 theme: jekyll-theme-minimal 
